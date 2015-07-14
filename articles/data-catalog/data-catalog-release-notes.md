@@ -18,7 +18,7 @@
 
 # Notes for the 13 July 2015 release of Azure Data Catalog
 
-Registering and Connecting to Oracle Database
+### Registering and Connecting to Oracle Database
 When connecting to Oracle Database data sources users must have installed the correct Oracle drivers that match the bitness (32-bit or 64-bit) of the software being used.
 
 -	When registering Oracle data sources on a computer running 32-bit Windows, the 32-bit Oracle drivers will be used
